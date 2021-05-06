@@ -2,6 +2,8 @@
 
 #### Hello 👋 
 -I studied history and education in the undergraduate department. 
+
+
 -I'm studying programming because I want to be a developer who contribute to education field.
 
 
