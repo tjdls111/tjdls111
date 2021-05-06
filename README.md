@@ -2,7 +2,7 @@
 
 #### Hello 👋 
 
-[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=kinetic27)](https://solved.ac/tjdls111)
+[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=tjdls111)](https://solved.ac/tjdls111)
    
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tjdls111)](https://github.com/anuraghazra/github-readme-stats)
 ***
