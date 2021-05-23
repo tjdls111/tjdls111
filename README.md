@@ -14,14 +14,15 @@
 ![mySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)
 
 ***
-[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=tjdls111)](https://solved.ac/tjdls111)
-   
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tjdls111)](https://github.com/anuraghazra/github-readme-stats)
+[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=tjdls111)](https://solved.ac/tjdls111)
+      
 ***
 ## 🍊Tech Stack
  ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white) 
  ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white) 
  ![python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+   
 ***
 ## 🍒Contact
   [![Naver Blog](https://img.shields.io/badge/NaverBlog-03C75A?style=flat-square&logo=naver&logoColor=white&link=https://blog.naver.com/tjdls111)](https://blog.naver.com/tjdls111)
