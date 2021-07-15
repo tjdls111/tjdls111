@@ -1,15 +1,16 @@
 ![header](https://capsule-render.vercel.app/api?type=rounded&color=gradient&height=100&section=header&text=Seoin&fontSize=70&animation=scaleIn)
 
 #### Hello 👋 
--I studied history and education in the undergraduate department. 
+- I studied history and education in the undergraduate department. 
 
 
--I'm studying programming in SSAFY 6th.
+- I'm studying programming in SSAFY 6th.
 
 - I want to be a developer who contribute to education field.
 
 
--I recently studying
+- I recently studying
+![python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white)
