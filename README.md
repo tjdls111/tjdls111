@@ -4,7 +4,7 @@
 - I studied history and education in the undergraduate department. 
 
 
-- I'm studying programming in SSAFY 6th.
+- I'm studying programming at SSAFY 6th.
 
 - I want to be a developer who contribute to education field.
 
