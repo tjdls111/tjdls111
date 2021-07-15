@@ -4,7 +4,9 @@
 -I studied history and education in the undergraduate department. 
 
 
--I'm studying programming because I want to be a developer who contribute to education field.
+-I'm studying programming in SSAFY 6th.
+
+- I want to be a developer who contribute to education field.
 
 
 -I recently studying
