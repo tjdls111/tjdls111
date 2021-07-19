@@ -1,10 +1,10 @@
 ![header](https://capsule-render.vercel.app/api?type=rounded&color=gradient&height=100&section=header&text=Seoin&fontSize=70&animation=scaleIn)
 
 #### Hello 👋 
-- I studied history and education in the undergraduate department. 
+- I studied `history` and `education` in the undergraduate department. 
 
 
-- I'm studying programming at SSAFY 6th.
+- I'm studying programming at `SSAFY` 6th.
 
 - I want to be a developer who contribute to education field.
 
