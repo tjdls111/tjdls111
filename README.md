@@ -33,6 +33,7 @@
   
   
   [![velog](https://img.shields.io/badge/Velog-15C39A?style=flat-square&&link=https://velog.io/@tjdls111)](https://velog.io/@tjdls111)
+  [티스토리](https://dalseoin.tistory.com/)
   
 ***
  
