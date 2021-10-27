@@ -26,14 +26,13 @@
  ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white) 
  ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white) 
  ![python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+ ![django](https://img.shields.io/badge/django-092E20?style=flat-square&logo=django&logoColor=white)
    
 ***
 ## 🍒Contact
   [![Naver Blog](https://img.shields.io/badge/NaverBlog-03C75A?style=flat-square&logo=naver&logoColor=white&link=https://blog.naver.com/tjdls111)](https://blog.naver.com/tjdls111)
   
-  
-  [![velog](https://img.shields.io/badge/Velog-15C39A?style=flat-square&&link=https://velog.io/@tjdls111)](https://velog.io/@tjdls111)
-  [티스토리](https://dalseoin.tistory.com/)
+  [![티스토리](https://img.shields.io/badge/Tistory-ff6000?style=flat-square&logo=tistory&link=https://dalseoin.tistory.com/)](https://dalseoin.tistory.com/)
   
 ***
  
