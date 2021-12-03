@@ -6,7 +6,7 @@
 
 - I'm studying programming at `SSAFY` 6th.
 
-- I want to be a developer who contribute to education field.
+- I want to be a `Backend` developer who contribute to education field.
 
 
 - I recently studying
