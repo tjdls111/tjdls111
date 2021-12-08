@@ -30,9 +30,9 @@
    
 ***
 ## 🍒Contact
+
+  [![티스토리](https://img.shields.io/badge/Tistory-ff6000?style=flat-square&logo=istory&link=https://dalseoin.tistory.com/)](https://dalseoin.tistory.com/)
   [![Naver Blog](https://img.shields.io/badge/NaverBlog-03C75A?style=flat-square&logo=naver&logoColor=white&link=https://blog.naver.com/tjdls111)](https://blog.naver.com/tjdls111)
-  
-  [![티스토리](https://img.shields.io/badge/Tistory-ff6000?style=flat-square&logo=tistory&link=https://dalseoin.tistory.com/)](https://dalseoin.tistory.com/)
   
 ***
  
