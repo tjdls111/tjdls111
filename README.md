@@ -12,7 +12,7 @@
 - I recently studying
 ![python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00758f?style=flat-square&logo=MySQL&logoColor=white)
-
+![React](https://img.shields.io/badge/React-60d9fb?style=flat-square&logo=React&logoColor=white)
 
 ***
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tjdls111)
