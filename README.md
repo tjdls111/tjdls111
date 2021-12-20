@@ -6,7 +6,7 @@
 
 - I'm studying programming at `SSAFY` 6th.
 
-- I want to be a developer who contribute to education field. (We haven't decided whether to focus on `BackEnd` or `FrontEnd`. I'm going to experience both.)
+- I want to be a developer who contribute to education field. (I haven't decided whether to focus on `BackEnd` or `FrontEnd`. I'm going to experience both.)
 
 
 - I recently studying
