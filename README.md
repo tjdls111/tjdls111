@@ -15,9 +15,10 @@
 ![MySQL](https://img.shields.io/badge/MySQL-00758f?style=flat-square&logo=MySQL&logoColor=white)
 
 ***
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tjdls111)
-[![tjdls111's GitHub stats](https://github-readme-stats.vercel.app/api?username=tjdls111)](https://github.com/anuraghazra/github-readme-stats) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tjdls111&langs_count=10&layout=compact)](https://github.com/jogilsang/tjdls111)﻿
 [![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=tjdls111)](https://solved.ac/tjdls111)
+[![tjdls111's GitHub stats](https://github-readme-stats.vercel.app/api?username=tjdls111)](https://github.com/anuraghazra/github-readme-stats) 
+
       
 ***
 ## 🍊Tech Stack
