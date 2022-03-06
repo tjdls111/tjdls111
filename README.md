@@ -11,6 +11,7 @@
 
 - I recently studying
 ![Next](https://img.shields.io/badge/Next-000000?style=flat-square&logo=Next.js&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=Redux&logoColor=white)
 ![TS](https://img.shields.io/badge/TypeScript-007acc?style=flat-square&logo=TypeScript&logoColor=white)
 ![Jest](https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=Jest&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00758f?style=flat-square&logo=MySQL&logoColor=white)
