@@ -12,7 +12,7 @@
 - I recently studying
 ![Next](https://img.shields.io/badge/Next-000000?style=flat-square&logo=Next.js&logoColor=white)
 ![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=Redux&logoColor=white)
-![TS](https://img.shields.io/badge/TypeScript-007acc?style=flat-square&logo=TypeScript&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white)
 ![Jest](https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=Jest&logoColor=white)
 
 ***
@@ -28,8 +28,8 @@
  ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white)
  ![python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
  ![django](https://img.shields.io/badge/django-092E20?style=flat-square&logo=django&logoColor=white)
- ![Vue](https://img.shields.io/badge/Vue.js-41b883?style=flat-square&logo=Vue.js&logoColor=white)
- ![React](https://img.shields.io/badge/React-60d9fb?style=flat-square&logo=React&logoColor=white)
+ ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white)
+ ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white)
    
 ***
 ## 🍒Blog
