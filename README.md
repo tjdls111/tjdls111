@@ -33,8 +33,9 @@
    
 ***
 ## 🍒Blog
+[티스토리](https://dalseoin.tistory.com/) 👩‍💻
 
-![티스토리](https://img.shields.io/badge/Tistory-ff6000?style=flat-square&logo=istory&link=https://dalseoin.tistory.com/)
-![Naver Blog](https://img.shields.io/badge/NaverBlog-03C75A?style=flat-square&logo=naver&logoColor=white&link=https://blog.naver.com/tjdls111)
+[네이버 블로그](https://blog.naver.com/tjdls111) 🤸‍♀️
+
 ***
  
