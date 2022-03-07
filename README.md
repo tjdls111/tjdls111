@@ -14,7 +14,6 @@
 ![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=Redux&logoColor=white)
 ![TS](https://img.shields.io/badge/TypeScript-007acc?style=flat-square&logo=TypeScript&logoColor=white)
 ![Jest](https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=Jest&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00758f?style=flat-square&logo=MySQL&logoColor=white)
 
 ***
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tjdls111&langs_count=10&layout=compact)](https://github.com/jogilsang/tjdls111)﻿
@@ -29,14 +28,13 @@
  ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white)
  ![python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
  ![django](https://img.shields.io/badge/django-092E20?style=flat-square&logo=django&logoColor=white)
- ![Vue](https://img.shields.io/badge/Vue-41b883?style=flat-square&logo=Vue.js&logoColor=white)
+ ![Vue](https://img.shields.io/badge/Vue.js-41b883?style=flat-square&logo=Vue.js&logoColor=white)
  ![React](https://img.shields.io/badge/React-60d9fb?style=flat-square&logo=React&logoColor=white)
    
 ***
-## 🍒Contact
+## 🍒Blog
 
-  [![티스토리](https://img.shields.io/badge/Tistory-ff6000?style=flat-square&logo=istory&link=https://dalseoin.tistory.com/)](https://dalseoin.tistory.com/)
-  [![Naver Blog](https://img.shields.io/badge/NaverBlog-03C75A?style=flat-square&logo=naver&logoColor=white&link=https://blog.naver.com/tjdls111)](https://blog.naver.com/tjdls111)
-  
+![티스토리](https://img.shields.io/badge/Tistory-ff6000?style=flat-square&logo=istory&link=https://dalseoin.tistory.com/)
+![Naver Blog](https://img.shields.io/badge/NaverBlog-03C75A?style=flat-square&logo=naver&logoColor=white&link=https://blog.naver.com/tjdls111)
 ***
  
