@@ -4,9 +4,9 @@
 - I studied `history` and `education` in the undergraduate department. 
 
 
-- I'm studying programming at `SSAFY` 6th.
+- I studied programming at `SSAFY` 6th.
 
-- I want to be a `FrontEnd` developer who contribute to education field.
+- I am a junior `FrontEnd` developer.
 
 
 - I recently studying
