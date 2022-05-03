@@ -10,10 +10,8 @@
 
 
 - I recently studying
-![Next](https://img.shields.io/badge/Next-000000?style=flat-square&logo=Next.js&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=Redux&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white)
-![Jest](https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=Jest&logoColor=white)
 
 ***
 [![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=tjdls111)](https://solved.ac/tjdls111)
