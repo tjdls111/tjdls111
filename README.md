@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=rounded&color=gradient&height=100&section=header&text=GrowingEveryDay&fontSize=70&animation=scaleIn)
+![header](https://capsule-render.vercel.app/api?type=rounded&color=gradient&height=100&section=header&text=❤SeoIn❤&fontSize=70&animation=scaleIn)
 
 #### Hello 👋 
 - I studied `history` and `education` in the undergraduate department. 
