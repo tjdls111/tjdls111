@@ -4,8 +4,6 @@
 
 - I am a junior `FrontEnd` developer.
 - I studied `history` and `education` in the undergraduate department. 
-
-
 - I studied programming at `SSAFY` 6th.
 
 
@@ -34,9 +32,9 @@
    
 ***
 ## 🍒Blog
-[티스토리](https://dalseoin.tistory.com/) 👩‍💻
+[티스토리(개발 블로그)](https://dalseoin.tistory.com/) 👩‍💻
 
-[네이버 블로그](https://blog.naver.com/tjdls111) 🤸‍♀️
+[네이버 블로그(일상 블로그)](https://blog.naver.com/tjdls111) 🤸‍♀️
 
 ***
  
