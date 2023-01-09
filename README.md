@@ -14,10 +14,6 @@
 
 ***
 [![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=tjdls111)](https://solved.ac/tjdls111)
- <img src="http://mazandi.herokuapp.com/api?handle=tjdls111&theme=warm"/>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tjdls111&layout=compact)](https://github.com/tjdls111/github-readme-stats)
-[![tjdls111's GitHub stats](https://github-readme-stats.vercel.app/api?username=tjdls111)](https://github.com/tjdls111/github-readme-stats) 
-
       
 ***
 ## 🍊Tech Stack
