@@ -2,7 +2,7 @@
 
 #### Hello 👋 
 
-- I am a junior `FrontEnd` developer working at `VIRNECT`
+- I am a junior `FrontEnd` developer.
 - I studied programming at `SSAFY` 6th.
 
 
