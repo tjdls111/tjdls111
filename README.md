@@ -27,6 +27,5 @@
 ***
 ## 🍒Blog
 [티스토리(개발 블로그)](https://dalseoin.tistory.com/) 👩‍💻
-[커리어리](https://careerly.co.kr/@dalin) 🌸
 ***
  
